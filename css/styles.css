@@ -1,0 +1,31 @@
+.todo{
+        background-color: blue;
+        text-align: center;
+        text-transform: uppercase;
+        font-family: fantasy;
+    }
+    #txt{
+        margin-top:12px;
+        border:3px solid grey;
+        width:75%;
+        height:50px;;
+        padding-left:12px;
+        font-style:italic;
+        font-family: 'Times New Roman', Times, serif;
+        
+    }
+     #button{
+       margin-left:5%;
+       width:80px;
+       height:50px;
+      border-radius:0px;
+       font-weight:bolder;
+    } 
+    #list{
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 25px;
+        font-style:italic;
+        margin-top:12px;
+        
+    }
+    
